@@ -20,7 +20,11 @@ Built using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js), the pla
 ## Installation  
 
 1. **Clone the repository:**  
+2. **Navigate to the project directory:**
    ```bash  
-   git clone https://github.com/TanMan-CAL/CNLC-AcademiaPro-MERN-Stack.git
-
-
+   cd CNLC-AcademiaPro-MERN-Stack
+3. **Install dependencies:**
+   ```bash
+   npm install  
+   cd client  
+   npm install
