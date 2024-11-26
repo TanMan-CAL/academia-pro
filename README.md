@@ -1,4 +1,4 @@
-# 🎓 CNLC AcademiaPro  
+# 🎓 academia pro 
 
 **Created by Kartik B, Rijwal S, Tanmay S**  
 
