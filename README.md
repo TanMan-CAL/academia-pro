@@ -28,4 +28,6 @@ Built using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js), the pla
 
 1. **Clone the repository:**  
    ```bash  
-   git clone https://github.com/TanMan-CAL/CNLC-AcademiaPro-MERN-Stack.git  
+   git clone https://github.com/TanMan-CAL/CNLC-AcademiaPro-MERN-Stack.git
+
+
