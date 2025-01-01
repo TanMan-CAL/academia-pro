@@ -26,5 +26,5 @@ Built using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js), the pla
 3. **Install dependencies**
    ```bash
    npm install  
-   cd client  
+   cd backend  
    npm install
