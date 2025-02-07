@@ -14,3 +14,5 @@ router.delete('/:id', protect, deleteStudent)
 
 
 module.exports = router
+
+// CRUD
