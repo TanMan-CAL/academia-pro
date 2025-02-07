@@ -1,7 +1,7 @@
 {
   "name": "academiapro",
   "version": "1.0.0",
-  "description": "Student Tracker",
+  "description": "Student Engagement Tracker",
   "main": "server.js",
   "scripts": {
     "start": "node backend/server.js",
