@@ -1,5 +1,3 @@
-# Getting Started with Create React App and Redux
-
 ## Available Scripts
 
 In the project directory, you can run:
